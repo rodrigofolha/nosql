@@ -53,3 +53,7 @@ Resultado esperado:
 > Em seguida, baixe o [arquivo contendo dados de filmes](https://github.com/rodrigofolha/nosql/blob/main/loadMovieDetailsDataset.js).
 
 > Copie o código e execute no seu VSCode.
+
+No VS Code, antes de qualquer comando execute o comando:
+```use('video');
+  ```
