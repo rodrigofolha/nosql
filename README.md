@@ -55,5 +55,6 @@ Resultado esperado:
 > Copie o código e execute no seu VSCode.
 
 No VS Code, antes de qualquer comando execute o comando:
-```use('video');
+```
+  use('nome do db');
   ```
